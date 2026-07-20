@@ -144,7 +144,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
-![Print](codzero.png)
+![Print](codezero.png)
 
 ---
 
