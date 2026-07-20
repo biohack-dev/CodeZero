@@ -144,4 +144,8 @@ Contribuições são bem-vindas! Para contribuir:
 
 ---
 
+![Print](codzero.png)
+
+---
+
 **CodeZero v3.1** - *Compatível com Windows 7 / Firefox ESR 128*# CodeZero
